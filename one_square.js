@@ -168,7 +168,7 @@ function setRotate(input){
 			break;
 
 		default:
-			console.log("not rotating")
+			console.log("its not rotating")
 			break;
 
 	}
